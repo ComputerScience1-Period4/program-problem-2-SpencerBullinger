@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\230246\desktop\computer science\program project two\program project two\source.cpp(54): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\230246\desktop\computer science\program project two\program project two\source.cpp(54): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\230246\desktop\computer science\program project two\program project two\source.cpp(24): warning C4101: 'z': unreferenced local variable
+c:\users\230246\desktop\computer science\program project two\program project two\source.cpp(23): warning C4101: 'y': unreferenced local variable
+c:\users\230246\desktop\computer science\program project two\program project two\source.cpp(22): warning C4101: 'x': unreferenced local variable
+  Program Project Two.vcxproj -> C:\Users\230246\Desktop\Computer Science\Program Project Two\Debug\Program Project Two.exe
+  Program Project Two.vcxproj -> C:\Users\230246\Desktop\Computer Science\Program Project Two\Debug\Program Project Two.pdb (Partial PDB)
